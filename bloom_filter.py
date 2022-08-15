@@ -63,7 +63,6 @@ bloomf = BloomFilter(n,p)
 
 faults = 0
 yes = 0
-no = 0
 
 words_added = set()
 
